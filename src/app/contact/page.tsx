@@ -39,8 +39,8 @@ export default function ContactPage() {
                                 <div>
                                     <h3 className="font-semibold text-gray-900">Téléphone</h3>
                                     <p className="text-gray-600 mt-1">
-                                        <a href="tel:0700000000" className="hover:text-primary transition-colors font-medium">
-                                            07 00 00 00 00
+                                        <a href="tel:0746252428" className="hover:text-primary transition-colors font-medium">
+                                            07 46 25 24 28
                                         </a>
                                     </p>
                                 </div>
@@ -53,8 +53,8 @@ export default function ContactPage() {
                                 <div>
                                     <h3 className="font-semibold text-gray-900">Email</h3>
                                     <p className="text-gray-600 mt-1">
-                                        <a href="mailto:contact@forest-family.fr" className="hover:text-primary transition-colors">
-                                            contact@forest-family.fr
+                                        <a href="mailto:ikarroumi@protonmail.com" className="hover:text-primary transition-colors">
+                                            ikarroumi@protonmail.com
                                         </a>
                                     </p>
                                 </div>
